@@ -19,7 +19,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384
 https://live.rctiplus.id/rctiplus/gtv_360p.m3u8?vhost=__defaultVhost__
  
 #EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR
-http://delivery-2.macan.live/stream/id_indosiar/index.m3u8?token=3kvMSffD
+https://etslive-2-vidio-com.akamaized.net/exp=1575090824~acl=/hls-p/ingest_6588_*/*~hmac=fe2b4c7ddb8c3701dcd20c37657f8b5aa427a07729f71d8f0a060b10b13bc0d7/hls-p/ingest_6588_720p/index.m3u8
  
 #EXTINF:0 tvg-logo="https://macan.live/img/inews.png" group-title="INDONESIA",iNews
 http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
