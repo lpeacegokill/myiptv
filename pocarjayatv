@@ -18,14 +18,17 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384
 #EXTINF:0 tvg-logo="https://macan.live/img/gtv.png" group-title="INDONESIA",GTV
 https://live.rctiplus.id/rctiplus/gtv_360p.m3u8?vhost=__defaultVhost__
  
-#EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR
+#EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR 1
 http://rr2.dens.tv/s/s04/01.m3u8?userid=na2qauwq5qn&app_type=web
+
+#EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR 2
+https://etslive-2-vidio-com.akamaized.net/exp=1575230290~acl=/hls-p/ingest_205_*/*~hmac=f66e14bf936f350fe5cf1e334dafd0a6f9da4097ff6e4e44e40679bde87a9077/hls-p/ingest_205_720p/index.m3u8
  
 #EXTINF:0 tvg-logo="https://macan.live/img/inews.png" group-title="INDONESIA",iNews
 http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
  
 #EXTINF:0 tvg-logo="https://macan.live/img/jaktv.png" group-title="INDONESIA",JAKTV
-https://etslive-2-vidio-com.akamaized.net/exp=1574797603~acl=/hls-p/ingest_5415_*/*~hmac=d26569ac0845cc7fde0c1338c45c595bcfe7765618cd9e3ebfa01dd6a49e961a/hls-p/ingest_5415_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1575230374~acl=/hls-p/ingest_5415_*/*~hmac=0d02e1272137cde38c43f620fcec8323ce91c0da0293f0a9e67e796db91977e6/hls-p/ingest_5415_720p/index.m3u8
  
 #EXTINF:0 tvg-logo="https://macan.live/img/kompastv.png" group-title="INDONESIA",KOMPAS TV
 http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -57,8 +60,11 @@ https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3KpNAMik6Dqbo00q_
 #EXTINF:0 tvg-logo="https://macan.live/img/trans7.png" group-title="INDONESIA",TRANS 7 FULL HD
 https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3KpNAMik6Dqbo00q_w-6-s)/dm/3/x6p1gw7/s/live-4.m3u8
  
-#EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV
+#EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV 1
 http://rr2.dens.tv/s/s101/01.m3u8?userid=na2qauwq5qn&app_type=web
+
+#EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV 2
+https://etslive-2-vidio-com.akamaized.net/exp=1575230449~acl=/hls-p/ingest_733_*/*~hmac=6fecae210e632c9ca0dafc24ca8f0c44801fb8e0316eb0fe56a9af98996692b3/hls-p/ingest_733_720p/index.m3u8
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE
 http://rr2.dens.tv/s/s105/01.m3u8?userid=na2qauwq5qn&app_type=web
