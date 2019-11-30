@@ -42,8 +42,11 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://macan.live/img/mnctv.png" group-title="INDONESIA",MNCTV
 https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8?vhost=__defaultVhost__
  
-#EXTINF:0 tvg-logo="https://macan.live/img/net.png" group-title="INDONESIA",NET.
+#EXTINF:0 tvg-logo="https://macan.live/img/net.png" group-title="INDONESIA",NET 1
 http://rr2.dens.tv/s/s08/01.m3u8?userid=na2qauwq5qn&app_type=web
+
+#EXTINF:0 tvg-logo="https://macan.live/img/net.png" group-title="INDONESIA",NET 2
+http://id2.indostreamingtv.com/live/nettv/index.m3u8
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="INDONESIA",RCTI
 https://live.rctiplus.id/rctiplus/rcti_360p.m3u8?vhost=__defaultVhost__
