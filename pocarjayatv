@@ -18,12 +18,15 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384
 #EXTINF:0 tvg-logo="https://macan.live/img/gtv.png" group-title="INDONESIA",GTV
 https://live.rctiplus.id/rctiplus/gtv_360p.m3u8?vhost=__defaultVhost__
  
-#EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR 1
+#EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR (1)
 http://rr2.dens.tv/s/s04/01.m3u8?userid=na2qauwq5qn&app_type=web
 
-#EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR 2
+#EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR (2)
 https://etslive-2-vidio-com.akamaized.net/exp=1575230290~acl=/hls-p/ingest_205_*/*~hmac=f66e14bf936f350fe5cf1e334dafd0a6f9da4097ff6e4e44e40679bde87a9077/hls-p/ingest_205_720p/index.m3u8
  
+#EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR 3
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+
 #EXTINF:0 tvg-logo="https://macan.live/img/inews.png" group-title="INDONESIA",iNews
 http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
  
@@ -51,8 +54,11 @@ http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=0
 #EXTINF:0 tvg-logo="https://macan.live/img/sctv.png" group-title="INDONESIA",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
  
-#EXTINF:0 tvg-logo="https://macan.live/img/trans7.png" group-title="INDONESIA",TRANS 7
+#EXTINF:0 tvg-logo="https://macan.live/img/trans7.png" group-title="INDONESIA",TRANS 7 (1)
 http://rr2.dens.tv/s/s101/01.m3u8?userid=na2qauwq5qn&app_type=web
+
+#EXTINF:0 tvg-logo="https://macan.live/img/trans7.png" group-title="INDONESIA",TRANS 7 (2)
+http://id2.indostreamingtv.com/live/trans7/index.m3u8
  
 #EXTINF:0 tvg-logo="https://macan.live/img/trans7.png" group-title="INDONESIA",TRANS 7 HD
 https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3KpNAMik6Dqbo00q_w-6-s)/dm/3/x6p1gw7/s/live-3.m3u8
@@ -60,14 +66,17 @@ https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3KpNAMik6Dqbo00q_
 #EXTINF:0 tvg-logo="https://macan.live/img/trans7.png" group-title="INDONESIA",TRANS 7 FULL HD
 https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3KpNAMik6Dqbo00q_w-6-s)/dm/3/x6p1gw7/s/live-4.m3u8
  
-#EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV 1
+#EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV (1)
 http://rr2.dens.tv/s/s101/02.m3u8?userid=na2qauwq5qn&app_type=web
 
-#EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV 2
+#EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV (2)
 https://etslive-2-vidio-com.akamaized.net/exp=1575230449~acl=/hls-p/ingest_733_*/*~hmac=6fecae210e632c9ca0dafc24ca8f0c44801fb8e0316eb0fe56a9af98996692b3/hls-p/ingest_733_720p/index.m3u8
  
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (1)
 http://rr2.dens.tv/s/s105/01.m3u8?userid=na2qauwq5qn&app_type=web
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (2)
+https://cdn-livetv2.metube.id/hls/tvone_480/index.m3u8
  
 #EXTINF:0 tvg-logo="" group-title="Sport",Champions TV 1 HD
 https://etslive-2-vidio-com.akamaized.net/exp=1574801550~acl=/hls-p/ingest_geo_6685_*/*~hmac=704625933db9a9ff19bea84b81f7475914fd60afd6cd2df6a4ca3f322d9dec0b/hls-p/ingest_geo_6685_720p/index.m3u8
