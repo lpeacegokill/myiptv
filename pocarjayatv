@@ -61,7 +61,7 @@ https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3KpNAMik6Dqbo00q_
 https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3KpNAMik6Dqbo00q_w-6-s)/dm/3/x6p1gw7/s/live-4.m3u8
  
 #EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV 1
-http://rr2.dens.tv/s/s101/01.m3u8?userid=na2qauwq5qn&app_type=web
+http://rr2.dens.tv/s/s101/02.m3u8?userid=na2qauwq5qn&app_type=web
 
 #EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV 2
 https://etslive-2-vidio-com.akamaized.net/exp=1575230449~acl=/hls-p/ingest_733_*/*~hmac=6fecae210e632c9ca0dafc24ca8f0c44801fb8e0316eb0fe56a9af98996692b3/hls-p/ingest_733_720p/index.m3u8
