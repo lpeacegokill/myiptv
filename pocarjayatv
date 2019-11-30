@@ -24,7 +24,7 @@ http://rr2.dens.tv/s/s04/01.m3u8?userid=na2qauwq5qn&app_type=web
 #EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR (2)
 https://etslive-2-vidio-com.akamaized.net/exp=1575230290~acl=/hls-p/ingest_205_*/*~hmac=f66e14bf936f350fe5cf1e334dafd0a6f9da4097ff6e4e44e40679bde87a9077/hls-p/ingest_205_720p/index.m3u8
  
-#EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR 3
+#EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR (3)
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
 #EXTINF:0 tvg-logo="https://macan.live/img/inews.png" group-title="INDONESIA",iNews
@@ -67,7 +67,7 @@ https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3KpNAMik6Dqbo00q_
 https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3KpNAMik6Dqbo00q_w-6-s)/dm/3/x6p1gw7/s/live-4.m3u8
  
 #EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV (1)
-http://rr2.dens.tv/s/s101/02.m3u8?userid=na2qauwq5qn&app_type=web
+https://cdn-livetv2.metube.id/hls/transtv_480/index.m3u8
 
 #EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV (2)
 https://etslive-2-vidio-com.akamaized.net/exp=1575230449~acl=/hls-p/ingest_733_*/*~hmac=6fecae210e632c9ca0dafc24ca8f0c44801fb8e0316eb0fe56a9af98996692b3/hls-p/ingest_733_720p/index.m3u8
