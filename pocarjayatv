@@ -61,7 +61,7 @@ https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3KpNAMik6Dqbo00q_
 https://etslive-2-vidio-com.akamaized.net/exp=1574796736~acl=/hls-p/ingest_733_*/*~hmac=b784146d6d63dde8c5b214860d99bcf5bfdec9a06c87fbcd225f4a5321fa07b3/hls-p/ingest_733_720p/index.m3u8
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE
-https://etslive-2-vidio-com.akamaized.net/exp=1575177876~acl=/hls-b/ingest_783_*/*~hmac=de05bc45073e354a303b020ea887c132a1f813ab02ec722056472d236f7490b7/hls-b/ingest_783_720p/index.m3u8
+http://rr2.dens.tv/s/s105/01.m3u8?userid=na2qauwq5qn&app_type=web
  
 #EXTINF:0 tvg-logo="" group-title="Sport",Champions TV 1 HD
 https://etslive-2-vidio-com.akamaized.net/exp=1574801550~acl=/hls-p/ingest_geo_6685_*/*~hmac=704625933db9a9ff19bea84b81f7475914fd60afd6cd2df6a4ca3f322d9dec0b/hls-p/ingest_geo_6685_720p/index.m3u8
