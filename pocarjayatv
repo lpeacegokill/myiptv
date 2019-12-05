@@ -79,7 +79,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1575230449~acl=/hls-p/ingest_733_*
 http://rr2.dens.tv/s/s105/01.m3u8?userid=na2qauwq5qn&app_type=web
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (2)
-https://cdn-livetv2.metube.id/hls/tvone_480/index.m3u8
+https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybF65CN5rkTO2QfHSFpJvkRU)/dm/3/x619221/s/live-2.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (3)
 https://etslive-2-vidio-com.akamaized.net/exp=1575231879~acl=/hls-p/ingest_783_*/*~hmac=2bad1362acbc91878914c2e72b049c69b52253b9e6ec9c799e2aae791468d2f6/hls-p/ingest_783_720p/index.m3u8
