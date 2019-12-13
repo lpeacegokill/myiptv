@@ -82,7 +82,7 @@ http://id1.indostreamingtv.com/live/tv444/index.m3u8
 https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybD1F0kZgDRBeVcOp23KAAGY)/dm/3/x619221/s/live-3.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (3)
-https://kmklive-lh.akamaihd.net/i/tvone_ta_regular@577566/index_360_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1576327890~acl=%2fi%2f*~data=hdntl~hmac=36d13a8c2825875585ff184b767f5c0f47a41e9dd316f8dfe3f4053256649201
+https://www.vidio.com/live/783-tvone
  
 #EXTINF:0 tvg-logo="" group-title="Sport",Champions TV 1 HD
 https://etslive-2-vidio-com.akamaized.net/exp=1574801550~acl=/hls-p/ingest_geo_6685_*/*~hmac=704625933db9a9ff19bea84b81f7475914fd60afd6cd2df6a4ca3f322d9dec0b/hls-p/ingest_geo_6685_720p/index.m3u8
