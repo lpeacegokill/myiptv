@@ -76,13 +76,13 @@ https://cdn-livetv2.metube.id/hls/transtv_480/index.m3u8
 https://etslive-2-vidio-com.akamaized.net/exp=1575230449~acl=/hls-p/ingest_733_*/*~hmac=6fecae210e632c9ca0dafc24ca8f0c44801fb8e0316eb0fe56a9af98996692b3/hls-p/ingest_733_720p/index.m3u8
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (1)
-http://rr2.dens.tv/s/s105/01.m3u8?userid=na2qauwq5qn&app_type=web
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (2)
 https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybD1F0kZgDRBeVcOp23KAAGY)/dm/3/x619221/s/live-3.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (3)
-https://etslive-2-vidio-com.akamaized.net/exp=1575231879~acl=/hls-p/ingest_783_*/*~hmac=2bad1362acbc91878914c2e72b049c69b52253b9e6ec9c799e2aae791468d2f6/hls-p/ingest_783_720p/index.m3u8
+https://kmklive-lh.akamaihd.net/i/tvone_ta_regular@577566/index_360_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1576327890~acl=%2fi%2f*~data=hdntl~hmac=36d13a8c2825875585ff184b767f5c0f47a41e9dd316f8dfe3f4053256649201
  
 #EXTINF:0 tvg-logo="" group-title="Sport",Champions TV 1 HD
 https://etslive-2-vidio-com.akamaized.net/exp=1574801550~acl=/hls-p/ingest_geo_6685_*/*~hmac=704625933db9a9ff19bea84b81f7475914fd60afd6cd2df6a4ca3f322d9dec0b/hls-p/ingest_geo_6685_720p/index.m3u8
