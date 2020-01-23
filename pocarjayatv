@@ -81,7 +81,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1577063947~acl=/hls-p/ingest_733_*
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (2)
-https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybFyz7w5iSDfMGhDd5zwC2IQ)/dm/3/x619221/s/live-2.m3u8
+https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybEGQe0SyeSwz4bPTFRcY-dY)/dm/3/x619221/s/live-3.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (3)
 https://kmklive-lh.akamaihd.net/i/tvone_ta_regular@577566/index_360_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1577006840~acl=%2fi%2f*~data=hdntl~hmac=85ebb01199d95c3485fc6cf6232cdc582b4db67d5e7d4283aaa80cda90faf08b
