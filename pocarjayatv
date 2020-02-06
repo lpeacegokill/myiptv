@@ -88,39 +88,4 @@ https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybEGQe0SyeSwz4bPTFR
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (3)
 https://kmklive-lh.akamaihd.net/i/tvone_ta_regular@577566/index_360_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1577006840~acl=%2fi%2f*~data=hdntl~hmac=85ebb01199d95c3485fc6cf6232cdc582b4db67d5e7d4283aaa80cda90faf08b
- 
-#EXTINF:0 tvg-logo="" group-title="Sport",Champions TV 1 HD
-https://etslive-2-vidio-com.akamaized.net/exp=1574801550~acl=/hls-p/ingest_geo_6685_*/*~hmac=704625933db9a9ff19bea84b81f7475914fd60afd6cd2df6a4ca3f322d9dec0b/hls-p/ingest_geo_6685_720p/index.m3u8
- 
-#EXTINF:0 tvg-logo="" group-title="Sport",Champions TV 2 HD
-https://etslive-2-vidio-com.akamaized.net/exp=1574813353~acl=/hls-p/ingest_geo_6686_*/*~hmac=a72fc2edd54465d55f93deaa77ae11e0f1c5c410da494c3239cdea354410848c/hls-p/ingest_geo_6686_720p/index.m3u8
- 
-#EXTINF:0 tvg-logo="" group-title="Sport",BEIN SPORTS
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_2_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:0 tvg-logo="" group-title="Sport",BEIN SPORTS 1
-https://2222.janjua.pw:8088/live/beinsportsweq1/playlist.m3u8?id=94567&wowzasessionid=3888677734&pk=43d563aa8f06b4cf399891105b62e9d65ed4bed89c1c7924ffe21e2b46b17229
- 
-#EXTINF:0 tvg-logo="" group-title="Sport",BEIN SPORTS 4
-https://2205.janjua.pw:8088/live/beinsportshdhea4hbr/playlist.m3u8?id=94551&wowzasessionid=374982156&pk=43d563aa8f06b4cf399891105b62e9d65ed4bed89c1c7924ffe21e2b46b17229
- 
-#EXTINF:0 tvg-logo="" group-title="Sport",BEIN SPORTS 5
-https://2207.janjua.pw:8088/live/beinsportsh5g/playlist.m3u8?id=94361&wowzasessionid=3041261271&pk=43d563aa8f06b4cf399891105b62e9d65ed4bed89c1c7924ffe21e2b46b17229
- 
-#EXTINF:0 tvg-logo="" group-title="Sport",BEIN SPORTS 7
-https://2d02.janjua.pw:8088/live/beino7i/playlist.m3u8?id=94585&wowzasessionid=3297836201&pk=43d563aa8f06b4cf399891105b62e9d65ed4bed89c1c7924ffe21e2b46b17229
- 
-#EXTINF:0 tvg-logo="" group-title="Sport",BEIN SPORTS 8
-https://2222.janjua.pw:8088/live/beino8sio/playlist.m3u8?id=94586&wowzasessionid=990324250&pk=43d563aa8f06b4cf399891105b62e9d65ed4bed89c1c7924ffe21e2b46b17229
- 
-#EXTINF:0 tvg-logo="" group-title="Sport",BEIN SPORTS 9
-https://2203.janjua.pw:8088/live/beinspors9iy/playlist.m3u8?id=94425&wowzasessionid=27503085&pk=43d563aa8f06b4cf399891105b62e9d65ed4bed89c1c7924ffe21e2b46b17229
- 
-#EXTINF:0 tvg-logo="" group-title="Sport",BEIN SPORTS 10
-https://2220.janjua.pw:8088/live/beinsportsadaz10/playlist.m3u8?id=94334&wowzasessionid=3977612667&pk=43d563aa8f06b4cf399891105b62e9d65ed4bed89c1c7924ffe21e2b46b17229
- 
-#EXTINF:0 tvg-logo="" group-title="Sport",BEIN SPORTS 11
-https://2221.janjua.pw:8088/live/beinsporstdd2gd/playlist.m3u8?id=94541&wowzasessionid=3764875112&pk=43d563aa8f06b4cf399891105b62e9d65ed4bed89c1c7924ffe21e2b46b17229
- 
-#EXTINF:0 tvg-logo="" group-title="Movies",Zee Bioskop
-https://etslive-2-vidio-com.akamaized.net/exp=1574802567~acl=/hls-b/ingest_geo_6399_*/*~hmac=1ebddd38bea283eab93599ac880b44ed5573da831b05750602e0c4a79a6d6604/hls-b/ingest_geo_6399_720p/index.m3u8
+
