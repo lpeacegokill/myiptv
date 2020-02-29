@@ -7,7 +7,7 @@ https://pocarjaya.com
 http://id2.indostreamingtv.com/live/antv/index.m3u8
  
 #EXTINF:0 tvg-logo="https://macan.live/img/beritasatu.png" group-title="INDONESIA",BeritaSatu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/601px-CNBC_logo.svg.png" group-title="INDONESIA",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
@@ -22,19 +22,10 @@ https://live.rctiplus.id/rctiplus/gtv_360p.m3u8?vhost=__defaultVhost__
 http://rr2.dens.tv/s/s04/01.m3u8?userid=na2qauwq5qn&app_type=web
 
 #EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR (2)
-https://etslive-2-vidio-com.akamaized.net/exp=1575230290~acl=/hls-p/ingest_205_*/*~hmac=f66e14bf936f350fe5cf1e334dafd0a6f9da4097ff6e4e44e40679bde87a9077/hls-p/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582984454~acl=/hls-b/ingest_205_*/*~hmac=6ad4b0a74a9e032d894ab009c0ded023cde9a85abbbd678698d0f91dbfb3878e/hls-b/ingest_205_720p/index.m3u8
  
 #EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR (3)
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
-
-#EXTINF:0 tvg-logo="https://macan.live/img/inews.png" group-title="INDONESIA",iNews
-http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
- 
-#EXTINF:0 tvg-logo="https://macan.live/img/jaktv.png" group-title="INDONESIA",JAKTV
-https://etslive-2-vidio-com.akamaized.net/exp=1575230374~acl=/hls-p/ingest_5415_*/*~hmac=0d02e1272137cde38c43f620fcec8323ce91c0da0293f0a9e67e796db91977e6/hls-p/ingest_5415_720p/index.m3u8
- 
-#EXTINF:0 tvg-logo="https://macan.live/img/kompastv.png" group-title="INDONESIA",KOMPAS TV
-http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
  
 #EXTINF:0 tvg-logo="https://macan.live/img/metrotv.png" group-title="INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
@@ -44,15 +35,12 @@ https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8?vhost=__defaultVhost__
  
 #EXTINF:0 tvg-logo="https://macan.live/img/net.png" group-title="INDONESIA",NET 1
 http://rr2.dens.tv/s/s08/01.m3u8?userid=na2qauwq5qn&app_type=web
-
-#EXTINF:0 tvg-logo="https://macan.live/img/net.png" group-title="INDONESIA",NET 2
-http://id2.indostreamingtv.com/live/nettv/index.m3u8
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="INDONESIA",RCTI
 https://live.rctiplus.id/rctiplus/rcti_360p.m3u8?vhost=__defaultVhost__
  
 #EXTINF:0 tvg-logo="https://macan.live/img/rtv.png" group-title="INDONESIA",RTV
-http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/session/4129cd46-5adb-11ea-85bd-8793975ce916/qwr9ew/s/s12/01.m3u8
  
 #EXTINF:0 tvg-logo="https://macan.live/img/sctv.png" group-title="INDONESIA",SCTV (1)
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
@@ -81,10 +69,10 @@ https://etslive-2-vidio-com.akamaized.net/exp=1577063947~acl=/hls-p/ingest_733_*
 #EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV (3)
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (1)
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
+https://cdn-livetv2.metube.id/hls/tvone_480/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (2)
-https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybEGQe0SyeSwz4bPTFRcY-dY)/dm/3/x619221/s/live-3.m3u8
+https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybFP1x4Yw0bz1bjDJrnwUFTM)/dm/3/x619221/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (3)
 https://kmklive-lh.akamaihd.net/i/tvone_ta_regular@577566/index_360_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1577006840~acl=%2fi%2f*~data=hdntl~hmac=85ebb01199d95c3485fc6cf6232cdc582b4db67d5e7d4283aaa80cda90faf08b
