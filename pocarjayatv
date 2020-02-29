@@ -69,11 +69,11 @@ https://etslive-2-vidio-com.akamaized.net/exp=1577063947~acl=/hls-p/ingest_733_*
 #EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV (3)
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (1)
-https://cdn-livetv2.metube.id/hls/tvone_480/index.m3u8
+https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1582972146~exp=9007200837713137~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=96bf7f85843cd5938148e681726b5c0165694134dea1b4f31143758e2f49c942&hdnts=st=1582972145~exp=1582972265~acl=/*~id=c067df3f-6edd-42fd-8781-520bdf55682d~data=175.158.37.88~hmac=17c310644ba69c9661deabf3e8da825451e77e7129a7d14984204fda5e84e28b
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (2)
-https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybFP1x4Yw0bz1bjDJrnwUFTM)/dm/3/x619221/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
+https://etslive-2-vidio-com.akamaized.net/exp=1582986201~acl=/hls-p/ingest_783_*/*~hmac=25023cebb5d809781b2c22f61df7b5b9980043467439d0bb165ebef477cc463f/hls-p/ingest_783_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (3)
-https://kmklive-lh.akamaihd.net/i/tvone_ta_regular@577566/index_360_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1577006840~acl=%2fi%2f*~data=hdntl~hmac=85ebb01199d95c3485fc6cf6232cdc582b4db67d5e7d4283aaa80cda90faf08b
+https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybFP1x4Yw0bz1bjDJrnwUFTM)/dm/3/x619221/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
 
