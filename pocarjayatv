@@ -45,6 +45,9 @@ http://rr2.dens.tv/s/s08/01.m3u8?userid=na2qauwq5qn&app_type=web
  
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="INDONESIA",RCTI
 https://live.rctiplus.id/rctiplus/rcti_360p.m3u8?vhost=__defaultVhost__
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png" group-title="INDONESIA",RCTI (2)
+https://etslive-2-vidio-com.akamaized.net/exp=1584190044~acl=/hls-p/ingest_665_*/*~hmac=92eabb2b8ded053a951df8c782fd938bfd9437de09ab6816ca568e1f87a1f74d/hls-p/ingest_665_720p/index.m3u8
  
 #EXTINF:0 tvg-logo="https://macan.live/img/rtv.png" group-title="INDONESIA",RTV
 http://210.210.155.35/session/4129cd46-5adb-11ea-85bd-8793975ce916/qwr9ew/s/s12/01.m3u8
@@ -53,7 +56,7 @@ http://210.210.155.35/session/4129cd46-5adb-11ea-85bd-8793975ce916/qwr9ew/s/s12/
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:0 tvg-logo="https://macan.live/img/sctv.png" group-title="INDONESIA",SCTV (2)
-https://etslive-2-vidio-com.akamaized.net/exp=1584108102~acl=/hls-b/ingest_204_*/*~hmac=60a85f77ec53120c34d811ad5b870aab73495730ecfee583bd5d8c9b220113e5/hls-b/ingest_204_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1584190310~acl=/hls-b/ingest_204_*/*~hmac=01a86e3155ae5ef69ea292a5b176f2f6a3a4ee799aacb86b31ed65eaa6a72d18/hls-b/ingest_204_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://macan.live/img/trans7.png" group-title="INDONESIA",TRANS 7 (1)
 http://rr2.dens.tv/s/s101/01.m3u8?userid=na2qauwq5qn&app_type=web
