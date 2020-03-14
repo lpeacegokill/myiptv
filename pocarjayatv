@@ -4,7 +4,7 @@
 https://pocarjaya.com
  
 #EXTINF:0 tvg-logo="https://macan.live/img/antv.png" group-title="INDONESIA",ANTV
-http://id2.indostreamingtv.com/live/antv/index.m3u8
+http://210.210.155.35/session/17785754-65c3-11ea-aa88-863ab728db5c/qwr9ew/s/s102/01.m3u8
  
 #EXTINF:0 tvg-logo="https://macan.live/img/beritasatu.png" group-title="INDONESIA",BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
@@ -16,13 +16,16 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
  
 #EXTINF:0 tvg-logo="https://macan.live/img/gtv.png" group-title="INDONESIA",GTV
-https://live.rctiplus.id/rctiplus/gtv_360p.m3u8?vhost=__defaultVhost__
+https://etslive-2-vidio-com.akamaized.net/exp=1584184658~acl=/hls-b/ingest_778_*/*~hmac=cd13c6421b86ed477f185d892716bdafa761fbeab1e0b391ca75c033c9328f5f/hls-b/ingest_778_720p/index.m3u8
  
+#EXTINF:0 tvg-logo="https://macan.live/img/gtv.png" group-title="INDONESIA",GTV (2)
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+
 #EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR (1)
-http://rr2.dens.tv/s/s04/01.m3u8?userid=na2qauwq5qn&app_type=web
+https://etslive-2-vidio-com.akamaized.net/exp=1584185386~acl=/hls-b/ingest_205_*/*~hmac=fc5dab51989560aac3e70f5c4b67a293c8dc84ce69ed009de2b33f7b66080906/hls-b/ingest_205_720p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR (2)
-https://etslive-2-vidio-com.akamaized.net/exp=1582984454~acl=/hls-b/ingest_205_*/*~hmac=6ad4b0a74a9e032d894ab009c0ded023cde9a85abbbd678698d0f91dbfb3878e/hls-b/ingest_205_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1584185629~acl=/hls-p/ingest_205_*/*~hmac=4d971db42ff13571d5403ef0f10ee52f552935384a5fc774634ccef16cd2081b/hls-p/ingest_205_720p/index.m3u8
  
 #EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR (3)
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
@@ -32,6 +35,10 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
  
 #EXTINF:0 tvg-logo="https://macan.live/img/mnctv.png" group-title="INDONESIA",MNCTV
 https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8?vhost=__defaultVhost__
+
+#EXTINF:0 tvg-logo="https://macan.live/img/mnctv.png" group-title="INDONESIA",MNCTV TES
+https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1.m3u8
+https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-mp4a_64000=2.m3u8
  
 #EXTINF:0 tvg-logo="https://macan.live/img/net.png" group-title="INDONESIA",NET 1
 http://rr2.dens.tv/s/s08/01.m3u8?userid=na2qauwq5qn&app_type=web
