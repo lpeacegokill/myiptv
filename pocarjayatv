@@ -36,9 +36,6 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://macan.live/img/mnctv.png" group-title="INDONESIA",MNCTV
 https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8?vhost=__defaultVhost__
 
-#EXTINF:0 tvg-logo="https://macan.live/img/mnctv.png" group-title="INDONESIA",MNCTV TES
-https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_2000000=1.m3u8
-https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-mp4a_64000=2.m3u8
  
 #EXTINF:0 tvg-logo="https://macan.live/img/net.png" group-title="INDONESIA",NET 1
 http://rr2.dens.tv/s/s08/01.m3u8?userid=na2qauwq5qn&app_type=web
@@ -83,6 +80,3 @@ https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (2)
 https://etslive-2-vidio-com.akamaized.net/exp=1582986201~acl=/hls-p/ingest_783_*/*~hmac=25023cebb5d809781b2c22f61df7b5b9980043467439d0bb165ebef477cc463f/hls-p/ingest_783_720p/index.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (3)
-https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybFP1x4Yw0bz1bjDJrnwUFTM)/dm/3/x619221/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
