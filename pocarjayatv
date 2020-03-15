@@ -14,11 +14,9 @@ https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1
 #EXTINF:0 tvg-logo="https://macan.live/img/gtv.png" group-title="INDONESIA",GTV (2)
 https://etslive-2-vidio-com.akamaized.net/exp=1584254248~acl=/hls-b/ingest_778_*/*~hmac=38d298e013f213d4922ca8c3119ec41debc35f5a4063c404ad221582e0ae2209/hls-b/ingest_778_720p/index.m3u8 
 #EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR (1)
-https://etslive-2-vidio-com.akamaized.net/exp=1584185386~acl=/hls-b/ingest_205_*/*~hmac=fc5dab51989560aac3e70f5c4b67a293c8dc84ce69ed009de2b33f7b66080906/hls-b/ingest_205_720p/index.m3u8
-#EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR (2)
-https://etslive-2-vidio-com.akamaized.net/exp=1584185629~acl=/hls-p/ingest_205_*/*~hmac=4d971db42ff13571d5403ef0f10ee52f552935384a5fc774634ccef16cd2081b/hls-p/ingest_205_720p/index.m3u8
-#EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR (3)
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR (2)
+https://etslive-2-vidio-com.akamaized.net/exp=1584256752~acl=/hls-b/ingest_205_*/*~hmac=5d4c2ed91f493675e44a2ee2cb28af442f8639ab7e58a90e03572d0fb8861244/hls-b/ingest_205_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://macan.live/img/metrotv.png" group-title="INDONESIA",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://macan.live/img/mnctv.png" group-title="INDONESIA",MNCTV
