@@ -9,8 +9,8 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/cnn-indonesia-logo-png-2.png" group-title="INDONESIA",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
-#EXTINF:0 tvg-logo="https://macan.live/img/gtv.png" group-title="INDONESIA",GTV
-https://etslive-2-vidio-com.akamaized.net/exp=1584184658~acl=/hls-b/ingest_778_*/*~hmac=cd13c6421b86ed477f185d892716bdafa761fbeab1e0b391ca75c033c9328f5f/hls-b/ingest_778_720p/index.m3u8
+#EXTINF:0 tvg-logo="https://macan.live/img/gtv.png" group-title="INDONESIA",GTV (vidio.com)
+https://etslive-2-vidio-com.akamaized.net/exp=1584254248~acl=/hls-b/ingest_778_*/*~hmac=38d298e013f213d4922ca8c3119ec41debc35f5a4063c404ad221582e0ae2209/hls-b/ingest_778_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://macan.live/img/gtv.png" group-title="INDONESIA",GTV (2)
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
 #EXTINF:0 tvg-logo="https://macan.live/img/indosiar.png" group-title="INDONESIA",INDOSIAR (1)
