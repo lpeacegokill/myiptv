@@ -32,7 +32,7 @@ http://210.210.155.35/session/4129cd46-5adb-11ea-85bd-8793975ce916/qwr9ew/s/s12/
 #EXTINF:0 tvg-logo="https://macan.live/img/sctv.png" group-title="INDONESIA",SCTV (1)
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:0 tvg-logo="https://macan.live/img/sctv.png" group-title="INDONESIA",SCTV (2)
-https://etslive-2-vidio-com.akamaized.net/exp=1584356966~acl=/hls-p/ingest_204_*/*~hmac=eaf684af5e8b1e2c64fc9091ba1a430c1d4e925f91735d43198b5325176fcb0f/hls-p/ingest_204_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1584368657~acl=/hls-p/ingest_204_*/*~hmac=00e3e556e7223ffdd6053e6f5b17fe2c8f15e072672e7354ddbdb85aaa584acc/hls-p/ingest_204_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://macan.live/img/trans7.png" group-title="INDONESIA",TRANS 7 (1)
 https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G2UtBVJa7SS8k9zCKY3hy0Q)/dm/3/x6p1gw7/s/live-4.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1&ab_betamark=2
 #EXTINF:0 tvg-logo="https://macan.live/img/trans7.png" group-title="INDONESIA",TRANS 7 (2)
