@@ -49,3 +49,21 @@ https://cdn-livetv2.metube.id/hls/transtv_480/index.m3u8
 http://rr2.dens.tv/s/s105/01.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (2)
 https://stream-05.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybP69szJfll7ravMVPhiL694)/dm/3/x619221/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/79/37/9e/79379ebe8f8398aeb819899a1468ae81.png" group-title="KIDS",  DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo="" tvg-country="ID" tvg-url="" group-title="KIDS",Boomerang
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="KIDS",Cartoon Network
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="KIDS",Disney Channel
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/79/37/9e/79379ebe8f8398aeb819899a1468ae81.png" group-title="KIDS", DISNEY JUNIOR INDONESIA Backup
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo="" tvg-country="ID" tvg-url="" group-title="KIDS",Disney XD 
+https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
+#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="KIDS",Cartoon Network
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+#EXTINF:0 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="KIDS",Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2009_logo.svg" group-title="KIDS",Nickelodeon Asia
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
