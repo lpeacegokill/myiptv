@@ -48,7 +48,7 @@ https://cdn-livetv2.metube.id/hls/transtv_480/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (1)
 http://rr2.dens.tv/s/s105/01.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (2)
-https://r2---sn-jcopn2-jb3l.googlevideo.com/videoplayback?expire=1592985728&ei=ILTyXoAwj4O8BI2FsvgK&ip=175.158.37.139&id=vGmQ-sIdFEI.0&itag=140&source=yt_live_broadcast&requiressl=yes&mh=Ec&mm=44%2C29&mn=sn-jcopn2-jb3l%2Csn-npoeene7&ms=lva%2Crdu&mv=m&mvi=1&pcm2cms=yes&pl=23&initcwndbps=623750&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&gir=yes&mt=1592964081&fvip=2&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIgQ0G7KID8eM7mp80SuoDibOx1G_6cfp2QWubDjaGFNccCIQD2picULc3eHK_pxTQsqyRKb5NOib4QDylmTeaz_EnCAg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgZfou-FkIs8_oEO-A3PsLkgtqyVvHhJHo96JRwMps5BICIFSYNI1V9YeiRuVzNDjE4YBPLnP4Dl3b4C_h6mavzeGV&alr=yes&cpn=T-xrEmdcmrvFn1uN&cver=20200623&sq=781420
+https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybJTPOHMEUlBdcSiwXmu7ExE)/dm/3/x619221/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/79/37/9e/79379ebe8f8398aeb819899a1468ae81.png" group-title="KIDS",  DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="" tvg-country="ID" tvg-url="" group-title="KIDS",Boomerang
