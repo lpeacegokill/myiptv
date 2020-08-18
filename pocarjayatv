@@ -30,21 +30,19 @@ https://etslive-2-vidio-com.akamaized.net/exp=1589389229~acl=/hls-p/ingest_665_*
 #EXTINF:0 tvg-logo="https://macan.live/img/rtv.png" group-title="INDONESIA",RTV
 http://210.210.155.35/session/4129cd46-5adb-11ea-85bd-8793975ce916/qwr9ew/s/s12/01.m3u8
 #EXTINF:0 tvg-logo="https://macan.live/img/sctv.png" group-title="INDONESIA",SCTV (1)
-https://etslive-2-vidio-com.akamaized.net/exp=1592976187~acl=/hls-b/ingest_204_*/*~hmac=dc5e68b511774ac8c0921ac71c9f7b29c58ff9051208c8ed3f5461b405e5f045/hls-b/ingest_204_720p/index.m3u8
+http://rr2.dens.tv/s/s03/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
 #EXTINF:0 tvg-logo="https://macan.live/img/sctv.png" group-title="INDONESIA",SCTV (2)
 https://etslive-2-vidio-com.akamaized.net/exp=1589389404~acl=/hls-b/ingest_204_*/*~hmac=c41ea4037cf31e6ca21476e304983e86527db2d2bc06084b7b90bd62a48bb5ec/hls-b/ingest_204_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://macan.live/img/trans7.png" group-title="INDONESIA",TRANS 7
-http://video.detik.com/trans7/smil:trans7.smil/chunklist_w798109995_b384000_sleng.m3u8?regieaerlays
-#EXTINF:0 tvg-logo="https://macan.live/img/trans7.png" group-title="INDONESIA",TRANS 7 FULL HD
-https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3hD_an6v7oKCR7XtYt9Pe4)/dm/3/x6p1gw7/s/live-4.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
+https://stream-05.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G28GRNEynxhPJi2p9lMkn7Y)/dm/3/x6p1gw7/s/live-2.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
 #EXTINF:0 tvg-logo="https://macan.live/img/trans7.png" group-title="INDONESIA",TRANS 7 HD
-https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3hD_an6v7oKCR7XtYt9Pe4)/dm/3/x6p1gw7/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
-#EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV (1)
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1032009241_b384000_sleng.m3u8
-#EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV (2)
-https://video.detik.com/transtv/smil:transtv-live.smil/chunklist_w1333315580_b192000_sleng.m3u8
-#EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV (3)
-https://cdn-livetv2.metube.id/hls/transtv_480/index.m3u8
+https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G28GRNEynxhPJi2p9lMkn7Y)/dm/3/x6p1gw7/s/live-3.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
+#EXTINF:0 tvg-logo="https://macan.live/img/trans7.png" group-title="INDONESIA",TRANS 7 FULL HD
+https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G28GRNEynxhPJi2p9lMkn7Y)/dm/3/x6p1gw7/s/live-4.m3u8#cell=lsg1&qos_vpart=1&qos_stail=1
+#EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1346865258_b544100_sleng.m3u8
+#EXTINF:0 tvg-logo="https://macan.live/img/transtv.png" group-title="INDONESIA",TRANS TV HD
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1346865258_b744100_sleng.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (1)
 http://rr2.dens.tv/s/s105/01.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/TvOne_logo_%282010%29.png" group-title="INDONESIA",TV ONE (2)
